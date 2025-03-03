@@ -8,7 +8,7 @@ If it can be automated, I’ll make it happen! I develop intelligent automation 
 
 🛠️ Skilled in **Python, Java, Computer Vision, Test Automation, and AI-driven control systems**.
 
-🌍 Proven ability to work in global teams, collaborating with professionals from diverse backgrounds, ensuring smooth execution in multinational environments.
+🌍 **Proven ability to work in global teams**, collaborating with professionals from diverse backgrounds, ensuring smooth execution in multinational environments.
 
 🎤 Presented research at major international venues, including **IEEE/ASME International Conference on Advanced Intelligent Mechatronics** (USA) and National Taipei University of Technology (Taiwan)
 
