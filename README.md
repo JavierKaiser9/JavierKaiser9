@@ -1,13 +1,17 @@
-# 🏄‍♂️ JAVIER ALEJANDRO VITERI BASANTES
+# 🤖 JAVIER ALEJANDRO VITERI BASANTES
 
 **`Automation and Control Engineer`**
 
-Passionate about  automation, machine learning, and robotics, with hands-on experience in developing intelligent systems and software testing solutions. My **Master’s research** focused on **autonomous sidewalk navigation** using **RGB-D vision and deep learning**, achieving real-time performance and high accuracy.
+🚀**Passionate about automating complex systems**🚀
+If it can be automated, I’ll make it happen! I develop intelligent automation solutions across multiple domains—robotics, software testing, and AI-driven systems.
 
-🚀 Skilled in **Python, Java, Computer Vision, Test Automation, and AI-driven control systems**. Experienced in collaborating with multicultural teams and presenting research at **international conferences** (Taiwan, USA).
+🚀 Skilled in **Python, Java, Computer Vision, Test Automation, and AI-driven control systems**.
+
+🌍 Proven ability to work in global teams, collaborating with professionals from diverse backgrounds, ensuring smooth execution in multinational environments.
+
+🎤 Presented research at major international venues, including **IEEE/ASME International Conference on Advanced Intelligent Mechatronics** (USA) and National Taipei University of Technology (Taiwan)
 
 🔍 Currently expanding my expertise in **test automation (Selenium, Java)** and always looking for innovative ways to optimize software reliability and performance.
-
 
 ---
 
