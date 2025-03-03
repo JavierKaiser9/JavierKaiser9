@@ -3,9 +3,10 @@
 **`Automation and Control Engineer`**
 
 🚀**Passionate about automating complex systems**🚀
+
 If it can be automated, I’ll make it happen! I develop intelligent automation solutions across multiple domains—robotics, software testing, and AI-driven systems.
 
-🚀 Skilled in **Python, Java, Computer Vision, Test Automation, and AI-driven control systems**.
+🛠️ Skilled in **Python, Java, Computer Vision, Test Automation, and AI-driven control systems**.
 
 🌍 Proven ability to work in global teams, collaborating with professionals from diverse backgrounds, ensuring smooth execution in multinational environments.
 
