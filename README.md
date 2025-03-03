@@ -39,8 +39,5 @@ Passionate about  automation, machine learning, and robotics, with hands-on expe
 
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"/>
 
-<img align="left" alt="Arduino" width="40px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"/>
-
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
 
 #
