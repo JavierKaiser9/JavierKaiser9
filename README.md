@@ -8,7 +8,7 @@ If it can be automated, I’ll make it happen! I design and develop intelligent 
 
 🎤 Presented research at major international venues, including **IEEE/ASME International Conference on Advanced Intelligent Mechatronics** (USA) and National Taipei University of Technology (Taiwan)
 
-🔍 Currently expanding my expertise in **data processing (Python, SQL)** and **test automation (Selenium, Java)** and always looking for innovative ways to optimize software reliability and performance.
+🔍 Currently expanding my expertise in **data processing (Python, SQL)** and **test automation (Selenium, Java)**. Always looking for innovative ways to optimize software reliability and performance.
 
 ---
 
