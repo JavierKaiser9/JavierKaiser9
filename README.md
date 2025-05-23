@@ -1,14 +1,14 @@
 # 🤖 JAVIER ALEJANDRO VITERI BASANTES
 
-**`Automation and Control Engineer`**
+**`Machine Learning Engineer`**
 
-If it can be automated, I’ll make it happen! I design and develop intelligent automation solutions across robotics, software testing, and AI-driven systems.
+If it can learn, I’ll build it! I engineer intelligent systems that transform data into meaningful decisions using machine learning, from physical automation to business-ready solutions.
 
-🌍 **Proven ability to work in global teams**, collaborating with professionals from diverse backgrounds, ensuring smooth execution in multinational environments.
+🌍 **Experienced in international teams**, collaborating across cultures to deliver impactful AI solutions in robotics, vision, and software systems.
 
 🎤 Presented research at major international venues, including **IEEE/ASME International Conference on Advanced Intelligent Mechatronics** (USA) and National Taipei University of Technology (Taiwan)
 
-🔍 Currently expanding my expertise in **data processing (Python, SQL)** and **test automation (Selenium, Java)**. Always looking for innovative ways to optimize software reliability and performance.
+🔍 Currently expanding my expertise in **ML pipelines, Python, SQL**, and **test automation**—driven to enhance software intelligence and performance.
 
 ---
 
