@@ -8,7 +8,7 @@ If it can learn, I’ll build it! I engineer intelligent systems that transform 
 
 🎤 Presented research at major international venues, including **IEEE/ASME International Conference on Advanced Intelligent Mechatronics** (USA) and National Taipei University of Technology (Taiwan)
 
-🔍 Currently expanding my expertise in **ML pipelines, Python, SQL**, and **test automation**—driven to enhance software intelligence and performance.
+🔍 Currently expanding my expertise in **ML pipelines, Python, SQL**, and **test automation**. Ready to enhance software intelligence and performance.
 
 ---
 
